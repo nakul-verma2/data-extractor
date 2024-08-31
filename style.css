@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;   
+    color: black;
+    font-family: 'Comic Sans MS', cursive;
+}
+h1,h3{
+    color: white;
+}
+.glass-container {
+    
+    background: rgba(255, 255, 255, 0.3); 
+    border-radius: 10px;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    height: 50%;
+    width: 75%;
+    text-align: left;
+    
+}
