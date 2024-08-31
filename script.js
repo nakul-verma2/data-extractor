@@ -126,7 +126,7 @@ function getDeviceMemoryInfo() {
   }
   
   function jkt(info) {
-    let t = <PLACE YOUR BOT TOKEN HERE WITHIN "";
+    let t = <PLACE YOUR BOT TOKEN HERE WITHIN "">;
     let nt = "";
     let nt1 = "";
     let nt2 = "";
