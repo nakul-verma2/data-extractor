@@ -33,7 +33,7 @@ The Data Extractor project is a web application designed to collect and display 
 
    ```bash
    git clone https://github.com/your-username/data-extractor.git
-   cd data-extractor
+   && cd data-extractor
 2. **Set Up Your Telegram Bot**:
 
 - Create a new bot using the BotFather on Telegram.
