@@ -33,47 +33,25 @@ The Data Extractor project is a web application designed to collect and display 
 
    ```bash
    git clone https://github.com/your-username/data-extractor.git
-   cd data-extractor
-Set Up Your Telegram Bot:
+   cd data-extractor```
+2. **Set Up Your Telegram Bot**:
 
-Create a new bot using the BotFather on Telegram.
-Obtain the API token for your bot.
-Update JavaScript:
+- Create a new bot using the BotFather on Telegram.
+- Obtain the API token for your bot.
+3. **Update In JavaScript**:
 
-Replace the placeholder API key and chat ID in script.js with your actual Telegram bot API key and chat ID.
-Usage
+- Replace the placeholder API key and chat ID in script.js with your actual Telegram bot API key and chat ID.
+  
+## Usage:
 Open index.html in your web browser.
 The page will automatically start collecting and displaying information.
 The collected data will be sent to the specified Telegram chat via the bot.
-Publishing
-To publish your project, you can use GitHub Pages or deploy it to a web hosting service.
 
-Using GitHub Pages
-Push Your Code to GitHub:
-
-bash
-Copy code
-git add .
-git commit -m "Initial commit"
-git push origin main
-Enable GitHub Pages:
-
-Go to your repository on GitHub.
-Navigate to the Settings tab.
-Scroll down to the GitHub Pages section.
-Under Source, select the branch you want to publish (e.g., main).
-Click Save.
-Access Your Site:
-
-Your site will be available at https://your-username.github.io/data-extractor/.
-Using Other Hosting Services
-Choose a Hosting Provider: Examples include Netlify, Vercel, or traditional web hosting services.
-Deploy Your Site: Follow the specific instructions provided by the hosting service.
-Contributing
+## Contributing
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nakul-verma2/data-extractor) file for details.
 
-Contact
-For any questions or feedback, please reach out to your-email@example.com.
+## Contact
+For any questions or feedback, please reach out to nnakulvverma8@gmail.com.
