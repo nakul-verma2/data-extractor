@@ -41,6 +41,9 @@ The Data Extractor project is a web application designed to collect and display 
 3. **Update In JavaScript**:
 
 - Replace the placeholder API key and chat ID in script.js with your actual Telegram bot API key and chat ID.
+
+## Project is live at:
+[Data-Extractor](https://nakul-verma2.github.io/projects/data-extractor)
   
 ## Usage:
 Open index.html in your web browser.
